@@ -1,2 +1,2 @@
-# CSE471-Project
-CrowdFunding
+# Crowd Funding
+The platform's original purpose is to improve the world by connecting fundraisers and contributors. The effort would gather funds for various fundraisers by organizing campaigns or events such as disaster assistance, disadvantaged support, and so on. This will not only assist NGO(s) in raising funds for their programs but will also motivate a large number of individuals to volunteer. Fundraisers will be able to develop campaigns to collect cash for a variety of objectives, and donors will be able to donate to whatever campaign they want. One of the system's key purposes is to help the poor. The fundraising will be separated into many categories to assist each individual from various sectors, such as education or student scholarships, assisting COVID-19-affected impoverished people, various types of disaster-affected people, supporting individuals for their livelihood, and so o
